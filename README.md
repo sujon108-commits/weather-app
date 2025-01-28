@@ -2,6 +2,8 @@
 
 A simple weather application built using HTML, CSS, and JavaScript that fetches real-time weather data using a weather API.
 
+live link : https://sujon108-commits.github.io/weather-app/
+
 ![image](https://github.com/user-attachments/assets/6196e610-c540-4d75-bfa3-3572c7eea535)
 
 
